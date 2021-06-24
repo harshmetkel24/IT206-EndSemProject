@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1623688312 source:c:\users\bhavik\onedrive\desktop\c++ programmes\snakeandladderdsproject\main.cpp
+	<iostream>
+	<time.h>
+	"BoardDataTable.h"
+	"Board.h"
+	"Dice.h"
+	"Game.h"
+	<windows.h>
+
+1623687890 c:\users\bhavik\onedrive\desktop\c++ programmes\snakeandladderdsproject\include\boarddatatable.h
+	<iostream>
+
+1623514308 source:c:\users\bhavik\onedrive\desktop\c++ programmes\snakeandladderdsproject\src\boarddatatable_m.cpp
+	"BoardDataTable.h"
+
+1623676724 source:c:\users\bhavik\onedrive\desktop\c++ programmes\snakeandladderdsproject\src\board_m.cpp
+	"Board.h"
+
+1623676729 c:\users\bhavik\onedrive\desktop\c++ programmes\snakeandladderdsproject\include\board.h
+	<iostream>
+
+1623677054 c:\users\bhavik\onedrive\desktop\c++ programmes\snakeandladderdsproject\include\dice.h
+	<iostream>
+	<time.h>
+
+1623677039 source:c:\users\bhavik\onedrive\desktop\c++ programmes\snakeandladderdsproject\src\dice_m.cpp
+	"Dice.h"
+
+1623749375 source:c:\users\bhavik\onedrive\desktop\c++ programmes\snakeandladderdsproject\src\game_m.cpp
+	"Game.h"
+
+1623504033 c:\users\bhavik\onedrive\desktop\c++ programmes\snakeandladderdsproject\include\game.h
+	<iostream>
+
